@@ -1,5 +1,5 @@
 ## Projeto Backend
-Backend do projeto Geração Tech do curso de desenvolvimento Full Stack.
+Projeto Backend Geração Tech do curso de desenvolvimento Full Stack.
 
 ## Tecnologias Utilizadas
 - **Node.js**: Plataforma de desenvolvimento.
